@@ -1,5 +1,5 @@
 👨‍💻 Muhammed Muhammed
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0F9D58&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Backend+Developer+(C%2B%2B+%7C+C%23+%7C+.NET);Full+Stack+Developer;AI+%26+Computer+Vision+Enthusiast" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0F9D58&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+Developer+(C%2B%2B+%7C+C%23+%7C+.NET);Full+Stack+Developer;AI+%26+Computer+Vision+Enthusiast" /> </p>
 🎓 About Me
 
 🎓 Software Engineering Student
