@@ -9,9 +9,9 @@
 
 🌍 Languages
 🇸🇦 Arabic (Native)
-🇹🇷 Turkish (Intermediate)
+🇹🇷 Turkish (Native)
 🇬🇧 English (Basic)
-🧩 Kurdish (Basic)
+🧩 Kurdish (Native)
 🧠 Tech Stack
 💻 Programming Languages
 
